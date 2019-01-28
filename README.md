@@ -1,2 +1,2 @@
 # word-embedding-word2vec
-first test
+word2vec implementation
